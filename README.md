@@ -1,4 +1,4 @@
-# python_log_aggregator
+# Python Log Aggregator
 
 A framework for aggregating similar log files using a subclass of logging.Handler.
 A unique metadata string is constructed from each log record, and its message, variables and timestamp are kept in a cache.
